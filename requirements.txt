@@ -1,0 +1,6 @@
+requests>=2.31
+python-dotenv>=1.0      # optional: loads .env automatically
+tzdata>=2024.1          # timezone database (needed on Windows)
+streamlit>=1.40         # demo UI
+pandas>=2.0             # demo UI tables
+pytest>=8.0             # tests only

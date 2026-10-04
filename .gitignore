@@ -1,0 +1,10 @@
+.env
+test_results.txt
+sample_run.txt
+sample_run_v2.txt
+readme.md
+tests/
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
