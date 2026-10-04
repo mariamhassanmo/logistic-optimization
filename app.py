@@ -23,7 +23,7 @@ if "customer_city" not in st.session_state:
 
 st.title("🚚 Logistics Optimizer")
 
-gi
+
 
 
 # ---------------------------------------------------------------- 1. order input
